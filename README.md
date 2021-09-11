@@ -1,3 +1,3 @@
 # portfolio
 
-website link - https://pratik038.github.io/portfolio/
+website link - https://portfolio-pratik038.netlify.app/
